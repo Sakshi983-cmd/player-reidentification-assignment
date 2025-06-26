@@ -5,6 +5,19 @@ Player Re-identification using YOLOv8 + SORT + ReID
 This project performs **player re-identification** in sports videos. It detects players using YOLOv8, tracks them using SORT, and identifies each unique player using features extracted from EfficientNet. The final output video highlights each player with a consistent ID across frames.
 
 ---
+## 📦 Model Checkpoint
+
+The trained YOLOv8 model file used in this project (`best.pt`) was provided by the company.
+
+🔗 **[Download best.pt (Google Drive)](https://drive.google.com/file/d/1cFxwi0pgxcb0x6MeKbm01O5jI0_ys4SP/view?usp=sharing)**
+
+---
+
+## 🎬 Test Video
+
+This video was used to test the Re-Identification pipeline.
+
+🔗 **[Download test video (Google Drive)](https://drive.google.com/file/d/1SuNCwp3C3COCqJqbcmK8HNvV2bAhppee/view?usp=sharing)**
 
 
 ---
